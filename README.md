@@ -1,5 +1,9 @@
 # 👩‍💻 Data Analytics Portfolio
 
+![Python](https://img.shields.io/badge/Python-Blue)
+![Machine Learning](https://img.shields.io/badge/MachineLearning-Green)
+![Data Analysis](https://img.shields.io/badge/DataAnalysis-Orange)
+
 Hi, I’m Anam 👋  
 Aspiring Data Analyst with interest in Machine Learning & AI  
 
