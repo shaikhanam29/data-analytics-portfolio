@@ -17,8 +17,6 @@ An interactive Power BI dashboard was created to visualize key business insights
 
 ## SQL Concepts Used
 - GROUP BY
-- Aggregate Functions
-- CTEs
 - String Functions
 - Date Functions
 - ORDER BY
